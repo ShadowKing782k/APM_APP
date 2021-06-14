@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16032384124",
+    "firebase_url": "https://led123-af4d8-default-rtdb.firebaseio.com",
+    "project_id": "led123-af4d8",
+    "storage_bucket": "led123-af4d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16032384124:android:6dada7690582f2e532f5f9",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16032384124-31sqeptn8m50422c6rr6hnem3edeo2o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK9c13e8_3P13if_WGcmzag57qi3J8VuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16032384124-31sqeptn8m50422c6rr6hnem3edeo2o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
